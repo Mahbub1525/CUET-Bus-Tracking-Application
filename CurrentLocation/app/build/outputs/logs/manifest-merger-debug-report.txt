@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1bf334fafd0db60e86c1e94d893f7d02\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\0fd1f90d532033e3937a7a3df395cc54\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35d81c0c20519f5e49bedffdf4c53f0f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1bb386d625b3192287a36b02f3e7f230\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b855f0c22b2cfe37168d97a8dfd58e19\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\b70c5c1c61082f159ca5a32e918e6ba5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\42afdef7d3e0ac0bac9ac27fd1a7cd89\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\45799aef9678f97ba08bd713966c65d2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\492b922e690b71186613a2f8b7a6c0a9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfd7f2541aef6bbec5d5008cec011af6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cb7f10f8cfdc498add37215b3f1ceb1d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1b86fb4bc2581aba283abcb40cac6329\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d07e8047c2d87bc9d4cd0f442caba961\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\5945ff7fbb1bbfb30d1c9f5d902a8b0c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\7f08a1b419439ef5c36ca0e36e353f78\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\9fdacae9ac424b5e62ce8e98c549165f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\dd9e191bd1bc1c140ed1f02ceaa10ca3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\49325a4274041b0b83e4400534e49bd3\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fa7f9073c706afa0e206aa99c4211a08\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:12:22-78
+application
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:14:5-42:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1bf334fafd0db60e86c1e94d893f7d02\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1bf334fafd0db60e86c1e94d893f7d02\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\0fd1f90d532033e3937a7a3df395cc54\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\0fd1f90d532033e3937a7a3df395cc54\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35d81c0c20519f5e49bedffdf4c53f0f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35d81c0c20519f5e49bedffdf4c53f0f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1bb386d625b3192287a36b02f3e7f230\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1bb386d625b3192287a36b02f3e7f230\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b855f0c22b2cfe37168d97a8dfd58e19\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b855f0c22b2cfe37168d97a8dfd58e19\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\b70c5c1c61082f159ca5a32e918e6ba5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\b70c5c1c61082f159ca5a32e918e6ba5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\42afdef7d3e0ac0bac9ac27fd1a7cd89\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\42afdef7d3e0ac0bac9ac27fd1a7cd89\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\45799aef9678f97ba08bd713966c65d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\45799aef9678f97ba08bd713966c65d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\492b922e690b71186613a2f8b7a6c0a9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\492b922e690b71186613a2f8b7a6c0a9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfd7f2541aef6bbec5d5008cec011af6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfd7f2541aef6bbec5d5008cec011af6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cb7f10f8cfdc498add37215b3f1ceb1d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cb7f10f8cfdc498add37215b3f1ceb1d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1b86fb4bc2581aba283abcb40cac6329\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1b86fb4bc2581aba283abcb40cac6329\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d07e8047c2d87bc9d4cd0f442caba961\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d07e8047c2d87bc9d4cd0f442caba961\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\5945ff7fbb1bbfb30d1c9f5d902a8b0c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\5945ff7fbb1bbfb30d1c9f5d902a8b0c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\7f08a1b419439ef5c36ca0e36e353f78\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\7f08a1b419439ef5c36ca0e36e353f78\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\9fdacae9ac424b5e62ce8e98c549165f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\9fdacae9ac424b5e62ce8e98c549165f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\dd9e191bd1bc1c140ed1f02ceaa10ca3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\dd9e191bd1bc1c140ed1f02ceaa10ca3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\49325a4274041b0b83e4400534e49bd3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\49325a4274041b0b83e4400534e49bd3\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fa7f9073c706afa0e206aa99c4211a08\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fa7f9073c706afa0e206aa99c4211a08\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:20:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:29:9-31:55
+	android:value
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:30:13-58
+activity#com.example.shakil.currentlocation.MapsActivity
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:34:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1bf334fafd0db60e86c1e94d893f7d02\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1bf334fafd0db60e86c1e94d893f7d02\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\0fd1f90d532033e3937a7a3df395cc54\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\0fd1f90d532033e3937a7a3df395cc54\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35d81c0c20519f5e49bedffdf4c53f0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35d81c0c20519f5e49bedffdf4c53f0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1bb386d625b3192287a36b02f3e7f230\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1bb386d625b3192287a36b02f3e7f230\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b855f0c22b2cfe37168d97a8dfd58e19\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b855f0c22b2cfe37168d97a8dfd58e19\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\b70c5c1c61082f159ca5a32e918e6ba5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\b70c5c1c61082f159ca5a32e918e6ba5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\42afdef7d3e0ac0bac9ac27fd1a7cd89\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\42afdef7d3e0ac0bac9ac27fd1a7cd89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\45799aef9678f97ba08bd713966c65d2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\45799aef9678f97ba08bd713966c65d2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\492b922e690b71186613a2f8b7a6c0a9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\492b922e690b71186613a2f8b7a6c0a9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfd7f2541aef6bbec5d5008cec011af6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfd7f2541aef6bbec5d5008cec011af6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cb7f10f8cfdc498add37215b3f1ceb1d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cb7f10f8cfdc498add37215b3f1ceb1d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1b86fb4bc2581aba283abcb40cac6329\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1b86fb4bc2581aba283abcb40cac6329\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d07e8047c2d87bc9d4cd0f442caba961\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d07e8047c2d87bc9d4cd0f442caba961\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\5945ff7fbb1bbfb30d1c9f5d902a8b0c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\5945ff7fbb1bbfb30d1c9f5d902a8b0c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\7f08a1b419439ef5c36ca0e36e353f78\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\7f08a1b419439ef5c36ca0e36e353f78\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\9fdacae9ac424b5e62ce8e98c549165f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\9fdacae9ac424b5e62ce8e98c549165f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\dd9e191bd1bc1c140ed1f02ceaa10ca3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\dd9e191bd1bc1c140ed1f02ceaa10ca3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\49325a4274041b0b83e4400534e49bd3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\49325a4274041b0b83e4400534e49bd3\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fa7f9073c706afa0e206aa99c4211a08\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fa7f9073c706afa0e206aa99c4211a08\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1bf334fafd0db60e86c1e94d893f7d02\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\CurrentLocation\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1bf334fafd0db60e86c1e94d893f7d02\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35d81c0c20519f5e49bedffdf4c53f0f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\35d81c0c20519f5e49bedffdf4c53f0f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1bb386d625b3192287a36b02f3e7f230\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1bb386d625b3192287a36b02f3e7f230\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\45799aef9678f97ba08bd713966c65d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\45799aef9678f97ba08bd713966c65d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\492b922e690b71186613a2f8b7a6c0a9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\492b922e690b71186613a2f8b7a6c0a9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfd7f2541aef6bbec5d5008cec011af6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfd7f2541aef6bbec5d5008cec011af6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cb7f10f8cfdc498add37215b3f1ceb1d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cb7f10f8cfdc498add37215b3f1ceb1d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1b86fb4bc2581aba283abcb40cac6329\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1b86fb4bc2581aba283abcb40cac6329\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d07e8047c2d87bc9d4cd0f442caba961\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d07e8047c2d87bc9d4cd0f442caba961\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1bf334fafd0db60e86c1e94d893f7d02\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1bf334fafd0db60e86c1e94d893f7d02\AndroidManifest.xml:27:13-51
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\4000a236de7bff2d84f45222ab2ce857\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b855f0c22b2cfe37168d97a8dfd58e19\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b855f0c22b2cfe37168d97a8dfd58e19\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b855f0c22b2cfe37168d97a8dfd58e19\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\b855f0c22b2cfe37168d97a8dfd58e19\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\42afdef7d3e0ac0bac9ac27fd1a7cd89\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\42afdef7d3e0ac0bac9ac27fd1a7cd89\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\42afdef7d3e0ac0bac9ac27fd1a7cd89\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fa7f9073c706afa0e206aa99c4211a08\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fa7f9073c706afa0e206aa99c4211a08\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shakil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fa7f9073c706afa0e206aa99c4211a08\AndroidManifest.xml:26:13-58
