@@ -1,6 +1,6 @@
 Vehicle Tracking System
 
-An android app developed particularly for the student of Chittagong University of Engineering and Technology. this help to keep track of the varsity bus so that all the students who are coming from city can keep track of the bus and be on the bus on time.
+An android app developed particularly for the students of **Chittagong University of Engineering and Technology**. this help to keep track of the varsity bus so that all the students who are coming from city can keep track of the bus and be on the bus on time.
 
 This is a two part app. Current Location part will be installed in the vehicle and the tracking will be installed on the client side.
 
